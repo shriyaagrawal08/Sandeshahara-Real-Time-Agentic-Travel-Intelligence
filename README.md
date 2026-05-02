@@ -1,4 +1,4 @@
-# Sandeshahara-Real-Time-Agentic-Travel-Intelligence
+# 🚩 Sandeshahara-Real-Time-Agentic-Travel-Intelligence
 Sandeshahara—Sanskrit for "The Messenger"—is a next-generation AI orchestration system. Inspired by the speed and resourcefulness of ancient scouts, this project implements a Tiered Agent Architecture to bridge the gap between high-velocity live data and high-accuracy human decision-making.
 
 ## 🌟 The Concept
@@ -48,7 +48,7 @@ Why Tiered Models? Running every WebSocket packet through Claude 4.7 is financia
 Why GraphRAG? To solve the "Multi-hop" problem. If a strike is announced at an airline hub, Sandeshahara knows it affects your flight even if your city isn't mentioned in the news title.
 
 ## 🚀 Getting Started
-Clone: git clone [https://github.com/yourusername/Sandeshahara.git](https://github.com/yourusername/Sandeshahara.git)
+Clone: git clone [https://github.com/shriyaagrawal08/Sandeshahara-Real-Time-Agentic-Travel-Intelligence.git]
 
 Environment: Set your GOOGLE_API_KEY (Free via AI Studio) and ANTHROPIC_API_KEY.
 
