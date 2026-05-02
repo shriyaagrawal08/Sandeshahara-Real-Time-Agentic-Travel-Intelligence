@@ -9,7 +9,7 @@ Standard AI models are either fast but prone to hallucinations or accurate but s
 
 ## The Scout (Tier 1 - Filtering):
 
-Model: Gemini 3.1 Flash-Lite (Free Tier).
+Model: Gemini 3.1 Flash-Lite (Free Tier) [ small LLM ]
 
 Role: Acts as the high-speed "eyes." It monitors a WSS (WebSocket Secure) stream of raw travel data 24/7. It discards 90% of irrelevant noise in <200ms.
 
@@ -21,7 +21,7 @@ Role: Maps the "Messenger's Path." It connects the filtered data to a Knowledge 
 
 ## The General (Tier 3 - Reasoning):
 
-Model: Claude 4.7 Sonnet.
+Model: Llama 4 Scout 17B ( Free Tier in GROQ ) [ large LLM ]
 
 Role: The final decision-maker. It performs deep reasoning and a "hallucination check" on the Scout's findings before delivering a verified, polished response to the user.
 
